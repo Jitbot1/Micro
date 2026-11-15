@@ -1,0 +1,8 @@
+{
+  "name": "Horn OK Please!",
+  "description": "High-speed 3D arcade driving game set in bustling Indian street traffic. Pilot a decorated passenger bus, honk to clear cows and pedestrians, pick up waving commuters, and outrun police pursuits.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
